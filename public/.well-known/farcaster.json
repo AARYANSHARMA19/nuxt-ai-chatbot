@@ -1,0 +1,22 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "baseBuilder": {
+    "ownerAddress": "0x43Ba2FC93eE521E17C588CBCFc8B2C83784D3561"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Nuxt AI Chatbot",
+    "homeUrl": "https://nuxt-ai-chatbot-drab-mu.vercel.app",
+    "iconUrl": "https://nuxt-ai-chatbot-drab-mu.vercel.app/icon.png",
+    "splashImageUrl": "https://nuxt-ai-chatbot-drab-mu.vercel.app/icon.png",
+    "splashBackgroundColor": "#000000",
+    "subtitle": "Your AI chatbot",
+    "description": "A Nuxt-based AI chatbot mini app.",
+    "primaryCategory": "social",
+    "tags": ["chatbot", "ai", "nuxt"]
+  }
+}
