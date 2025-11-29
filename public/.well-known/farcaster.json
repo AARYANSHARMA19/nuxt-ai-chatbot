@@ -18,8 +18,6 @@
     "tags": ["chatbot", "ai", "nuxt"],
     "subtitle": "Your AI chatbot",
     "description": "A Nuxt-based AI chatbot mini app.",
-
-    "webhookUrl": "https://nuxt-ai-chatbot-drab-mu.vercel.app/api/webhook", 
     "screenshotUrls": [
       "https://nuxt-ai-chatbot-drab-mu.vercel.app/screenshot1.png"
     ],
