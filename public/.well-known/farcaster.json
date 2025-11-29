@@ -14,9 +14,20 @@
     "iconUrl": "https://nuxt-ai-chatbot-drab-mu.vercel.app/icon.png",
     "splashImageUrl": "https://nuxt-ai-chatbot-drab-mu.vercel.app/icon.png",
     "splashBackgroundColor": "#000000",
+    "primaryCategory": "social",
+    "tags": ["chatbot", "ai", "nuxt"],
     "subtitle": "Your AI chatbot",
     "description": "A Nuxt-based AI chatbot mini app.",
-    "primaryCategory": "social",
-    "tags": ["chatbot", "ai", "nuxt"]
+
+    "webhookUrl": "https://nuxt-ai-chatbot-drab-mu.vercel.app/api/webhook", 
+    "screenshotUrls": [
+      "https://nuxt-ai-chatbot-drab-mu.vercel.app/screenshot1.png"
+    ],
+    "heroImageUrl": "https://nuxt-ai-chatbot-drab-mu.vercel.app/hero.png",
+    "tagline": "A simple and fast Nuxt AI chatbot.",
+    "ogTitle": "Nuxt AI Chatbot",
+    "ogDescription": "A Nuxt-based AI chatbot mini app built for Base & Farcaster.",
+    "ogImageUrl": "https://nuxt-ai-chatbot-drab-mu.vercel.app/og.png",
+    "noindex": false
   }
 }
